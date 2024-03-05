@@ -8,7 +8,7 @@
 :white_check_mark: i@antoniuk55.ru
 
 ### Обучение
-![Сертификат Карпов Курсы en](https://github.com/Albina20/Albina20/assets/59622108/b5d49d68-dd9d-47b7-8254-28a5687c51eb)
+![Сертификат Карпов Курсы en](https://github.com/Albina20/Albina20/assets/59622108/8a9727ba-7a02-4824-a02d-2a02e4e724a6)
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/f6dfc94c-6847-4051-93d7-8428ca462100/en/
 
 
