@@ -15,8 +15,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+### Мои проекты на github:  
+[Project 1. Statistic_AB_testing](https://github.com/Albina20/Project_1_Statistic_AB_testing) Необходимо проанализировать итоги АВ теста и сделать вывод, стоит ли запускать новую фичу на всех пользователей.
 
 ### Контакты:
 :white_check_mark: Telegram: https://t.me/Alfa3812  
