@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Мои проекты на github:  
-[Project 1. Statistic_AB_testing](https://github.com/Albina20/Project_1_Statistic_AB_testing) Необходимо проанализировать итоги АВ теста и сделать вывод, стоит ли запускать новую фичу на всех пользователей.  
+[Project 1. Statistic_AB_testing](https://github.com/Albina20/Project_1_Statistic_AB_testing) Проанализированы итоги АВ теста и сделан вывод, стоит ли запускать новую фичу на всех пользователей.  
 [Project 2. E-commerce](https://github.com/Albina20/Project_2_E-commerce) Анализ продаж, rfm-сегментация клиентов, когортный анализ.
 
 ### Контакты:
