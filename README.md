@@ -23,7 +23,7 @@
 :white_check_mark: Telegram: https://t.me/Alfa3812  
 :white_check_mark: i@antoniuk55.ru
 
-### Обучение
+### Образование
 ![Сертификат Карпов Курсы en](https://github.com/Albina20/Albina20/assets/59622108/8a9727ba-7a02-4824-a02d-2a02e4e724a6)
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/f6dfc94c-6847-4051-93d7-8428ca462100/en/
 
